@@ -6,9 +6,9 @@ This project is a web application that displays information about Pokemon, inclu
 
 The application has the following features:
 
-- Display a list of Pokemons
-- Search Pokemons by name
-- Filter Pokemons by type
+- Display a list of Pokemon
+- Search Pokemon by name
+- Filter Pokemon by type
 - View detailed information about a specific Pokemon
 
 ## Technologies Used
